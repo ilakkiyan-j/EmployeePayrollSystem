@@ -2,11 +2,11 @@
 A java project for employee payroll system to manage the data using my sql connected by jdbc to a program to perform specific operations.
 
 # Software requirements
-1.Windows 8 or later
-2.Eclipse for java developers
-3.MySQL Server
-4.MySQL workbench
-5.jdbc driver
+1. Windows 8 or later
+2. Eclipse for java developers
+3. MySQL Server
+4. MySQL workbench
+5. jdbc driver
 
 # About the project
 The Employee Payroll System marks a significant advancement in employee management practices, offering a comprehensive solution to the complexities of payroll processing. In an era where workforce dynamics and regulatory requirements are constantly evolving, traditional payroll systems often struggle to keep pace with the demands of modern businesses. In response to these challenges, our project endeavors to develop a robust and user-friendly platform that streamlines the payroll process and enhances the overall efficiency of HR operations.
